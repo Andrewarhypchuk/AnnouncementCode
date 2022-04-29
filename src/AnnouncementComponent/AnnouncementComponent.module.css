@@ -1,0 +1,17 @@
+.container{
+    background-color:darkgrey;
+    color: antiquewhite;
+    border-radius: 30px;
+    overflow: hidden;
+    height:200px;
+
+}
+.hyper{
+    text-decoration: none;
+    color: antiquewhite;
+    font-size: 25px;
+    transition-duration: 0.3s;
+}
+.hyper:hover{
+    font-size: 27px;
+}
